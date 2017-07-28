@@ -1,0 +1,3 @@
+/Users/LuiizMusic11/CLionProjects/Lab_2_Progra_3_Potencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/LuiizMusic11/CLionProjects/Lab_2_Progra_3_Potencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/LuiizMusic11/CLionProjects/Lab_2_Progra_3_Potencia/cmake-build-debug/CMakeFiles/Lab_2_Progra_3_Potencia.dir
